@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        .whole{
+            height: 100%;
+            width: 80%;
+            position: fixed;
+        }
+        .cont{
+            height: 300px;
+            width: 200px;
+            background-color: crimson;
+            position: relative;
+            /*left: 40%;*/
+            overflow: hidden;
+            display: flex;
+
+        }
+        .kai{
+            height: 50px;
+            width: 50px;
+            border-radius: 50%;
+            background-color: orange;
+            font-size: 20px;
+        }
+        .center{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .shang{
+            height: 250px;
+            width: 250px;
+            background-color: orangered;
+            border-radius: 60%;
+        }
+        #d1{
+            position: relative;
+            top: -100px;
+            left: 0px;
+        }
+        #d2{
+            position: absolute;
+            top: 40%;
+            left: 38%;
+        }
+    </style>
+</head>
+<body>
+<div class="whole center">
+
+<div class="cont">
+    <div  id="d1" class="shang"></div>
+    <div id="d2" class="kai center">開</div>
+    <div></div>
+    <div></div>
+</div>
+</div>
+
+</body>
+</html>

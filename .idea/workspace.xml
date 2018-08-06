@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="005c85e1-83a8-4a98-9be2-b0f4d6d9a7b4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/project/QQ/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/cout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/dongtai.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/dongtai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/1533190365(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/464009246224441428.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/907023209167031149.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/QQ空间.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/QQ运动.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/QQ音乐.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/ss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/xiangxia.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/下三角 向下 面性.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/五角星 2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/五角星.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/信封.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/信息.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/兴趣部落.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/冰激凌.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/创建群聊.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/加号.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/加好友.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/动态 (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/动态.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/应用宝.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/扫一扫.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/搜索.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/收付款查询.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/气球1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/消息 (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/消息.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/添加 加号 无边框.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/游戏.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/点赞.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/点赞00.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/点赞1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/狮子座.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/直播.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/看点 (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/看点.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/空间背景.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/联系人 (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/联系人.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/腾讯视频.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/腾讯课堂.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/购物.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/转发.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/附近.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/面对面快传.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/img/黄钻.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/information.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/kongjian.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/kongjian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/lianxiren.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/二维码.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/右背景.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/夜间.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/收藏影院.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/文件夹.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/无线项目.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/日历.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/画板主题.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/皇冠.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/相册.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/空间背景图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/设置.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/picture/钱包.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/signal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/touxiang/hadoop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/touxiang/lianxiren.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/touxiang/touxiang1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/touxiang/touxiang2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/touxiang/touxiang3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/touxiang/touxiang4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/touxiang/touxiang5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/touxiang/touxiang6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/touxiang/touxiang7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/QQ/touxiang/touxiang8.jpg" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project/QQ" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/7.27/简历.html" />
+        <option value="$PROJECT_DIR$/7.27/7.30/假网页.html" />
+        <option value="$PROJECT_DIR$/7.27/7.30/练习.html" />
+        <option value="$PROJECT_DIR$/7.27/7.30/实例2.html" />
+        <option value="$PROJECT_DIR$/7.31/动画2.html" />
+        <option value="$PROJECT_DIR$/7.31/动画1.html" />
+        <option value="$PROJECT_DIR$/7.31/动画.html" />
+        <option value="$PROJECT_DIR$/7.31/聊天界面.html" />
+        <option value="$PROJECT_DIR$/8.1/练习1.html" />
+        <option value="$PROJECT_DIR$/8.1/红包.html" />
+        <option value="$PROJECT_DIR$/8.1/练习2.html" />
+        <option value="$PROJECT_DIR$/project/QQ/signal.css" />
+        <option value="$PROJECT_DIR$/project/QQ/common.css" />
+        <option value="$PROJECT_DIR$/project/QQ/information.css" />
+        <option value="$PROJECT_DIR$/project/QQ/touxiang/lianxiren.css" />
+        <option value="$PROJECT_DIR$/8.3/break-word.html" />
+        <option value="$PROJECT_DIR$/8.3/1222.html" />
+        <option value="$PROJECT_DIR$/project/QQ/dongtai.css" />
+        <option value="$PROJECT_DIR$/project/QQ/router.js" />
+        <option value="$PROJECT_DIR$/project/qq-music/sildeout/css/default.css" />
+        <option value="$PROJECT_DIR$/project/qq-music/sildeout/index.html" />
+        <option value="$PROJECT_DIR$/project/qq-music/sildeout/img/123.html" />
+        <option value="$PROJECT_DIR$/project/QQ/index.js" />
+        <option value="$PROJECT_DIR$/project/QQ/kongjian.css" />
+        <option value="$PROJECT_DIR$/project/QQ/kongjian.html" />
+        <option value="$PROJECT_DIR$/project/QQ/menu.css" />
+        <option value="$PROJECT_DIR$/project/QQ/dongtai.html" />
+        <option value="$PROJECT_DIR$/project/QQ/lianxiren.html" />
+        <option value="$PROJECT_DIR$/project/QQ/title.css" />
+        <option value="$PROJECT_DIR$/project/QQ/cout.css" />
+        <option value="$PROJECT_DIR$/project/QQ/left.css" />
+        <option value="$PROJECT_DIR$/project/QQ/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="13" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="H5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H5" type="462c0819:PsiDirectoryNode" />
+              <item name="7.31" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../00" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\H5\project\QQ\touxiang" />
+      <recent name="C:\Users\Administrator\WebstormProjects\H5\project\QQ\picture" />
+      <recent name="C:\Users\Administrator\WebstormProjects\H5\project" />
+      <recent name="C:\Users\Administrator\WebstormProjects\H5\project\QQ" />
+      <recent name="C:\Users\Administrator\WebstormProjects\H5\project\QQ\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="简历.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/7.27/简历.html" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.简历.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="005c85e1-83a8-4a98-9be2-b0f4d6d9a7b4" name="Default" comment="" />
+      <created>1532836724547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532836724547</updated>
+      <workItem from="1532836729218" duration="1659000" />
+      <workItem from="1532840375781" duration="3484000" />
+      <workItem from="1532846472759" duration="175000" />
+      <workItem from="1532847117847" duration="2180000" />
+      <workItem from="1532865576112" duration="169000" />
+      <workItem from="1532957544175" duration="853000" />
+      <workItem from="1532958429422" duration="20000" />
+      <workItem from="1532958534636" duration="634000" />
+      <workItem from="1532994358366" duration="34375000" />
+      <workItem from="1533081607837" duration="34651000" />
+      <workItem from="1533167810101" duration="24678000" />
+      <workItem from="1533202408627" duration="8000" />
+      <workItem from="1533202648676" duration="15857000" />
+      <workItem from="1533253706468" duration="41220000" />
+      <workItem from="1533344601615" duration="9573000" />
+      <workItem from="1533358117799" duration="20856000" />
+      <workItem from="1533455385019" duration="23570000" />
+      <workItem from="1533513709476" duration="11294000" />
+      <workItem from="1533528304056" duration="3875000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="229131000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24255952" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/7.27/7.30/div.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.27/7.30/假网页.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.27/7.30/实例1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.27/7.30/实例2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2470">
+          <caret line="130" column="16" lean-forward="true" selection-start-line="130" selection-start-column="16" selection-end-line="130" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.31/聊天界面.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.1/练习1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.1/练习2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.1/红包.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-831" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.27/练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.27/7.30/练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.3/break-word.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.3/1222.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/img/下三角 向下 面性.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/img/信封.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/img/加号.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/img/黄钻.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/touxiang/touxiang8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/img/xiangxia.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/img/转发.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/img/点赞.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/img/点赞00.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/img/点赞1.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/img/狮子座.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/img/五角星 2.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/dongtai.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/qq-music/sildeout/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1779" lean-forward="true" selection-start-column="1779" selection-end-column="1779" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/qq-music/sildeout/img/123.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.31/动画2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.31/动画1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/qq-music/sildeout/css/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="106" column="53" lean-forward="true" selection-start-line="106" selection-start-column="53" selection-end-line="106" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/qq-music/sildeout/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="52" column="26" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.31/动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/picture/日历.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/signal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="244" column="16" selection-start-line="244" selection-start-column="16" selection-end-line="244" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/picture/设置.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/touxiang/lianxiren.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/kongjian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="144" column="34" selection-start-line="144" selection-start-column="34" selection-end-line="144" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/kongjian.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="150" column="31" lean-forward="true" selection-start-line="150" selection-start-column="31" selection-end-line="150" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/img/dev/hadoop.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/dongtai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="93" column="10" selection-start-line="93" selection-start-column="10" selection-end-line="93" selection-end-column="10" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/lianxiren.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="140" column="10" selection-start-line="140" selection-start-column="10" selection-end-line="140" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/left.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/information.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/QQ/cout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

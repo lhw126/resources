@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        .cont{
+            height:100%;
+            width: 100%;
+            border: black 2px solid;
+            display: flex;
+            flex-flow:column nowrap;
+            max-height: 400px;
+            /*justify-content:space-between;*/
+            position: fixed;
+        }
+        .sub{
+            height:50px;
+            width: 100%;
+
+        }
+        #d1{
+            flex-grow:  1;
+            background-color: #150fff;
+        }
+        #d2{
+            height: 100px;
+            background-color: red;
+        }
+        #d3{
+
+            background-color: green;
+        }
+        #d4{
+
+            background-color: orange;
+        }
+    </style>
+</head>
+<body>
+<div class="cont">
+    <div id="d1" class="sub"></div>
+    <div id="d2" class="sub"></div>
+    <div id="d3" class="sub"></div>
+    <div id="d4" class="sub"></div>
+</div>
+</body>
+</html>

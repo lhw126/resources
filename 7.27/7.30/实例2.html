@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>淘宝网</title>
+    <style>
+        *{
+            padding: 0px;
+            margin: 0px;
+            font-family: 宋体;
+        }
+        a{
+            color: #070b2d;
+            text-decoration:none;
+        }
+        a:hover{
+            box-shadow: 0px 0px 10px grey;
+            font-size: 25px;
+            color: red;
+        }
+        .biekuang{
+            border: red 1px solid;
+        }
+        .zongti{
+            height: 420px;
+            width: 270px;
+            display: inline-block;
+            margin: 10px 10px 20px 20px;
+            box-shadow: 0px 0px 10px gray;
+            border-radius: 10px 10px 0px 0px;
+            overflow: hidden;
+            cursor: pointer;
+            position: relative;
+        }
+        .img{
+            height: 200px;
+            width: 100%;
+            background-image:url(../图片/img-4.png);
+            background-size: cover;
+            background-position: center;
+        }
+        .title{height: 30px;
+            font-size: 23px;
+            margin: 20px 0px 0px 0px;
+            font-weight: 700;
+            color: #070b2d;
+        }
+        .inf{
+            height: 100px;
+            font-size: 20px;
+            font-weight: 200;
+            text-indent: 20px;
+            margin: 20px 0px 10px 0px;
+            color: #443145;
+        }
+        .price{
+            height: 40px;
+            font-size: 23px;
+            width:130px;
+            display: inline-block;
+            color: #ff2c51;
+        }
+        .star{
+            height: 40px;
+            width: 120px;
+            font-size: 23px;
+            display: inline-block;
+            color: darkturquoise;
+        }
+        .tou{
+            height: 100px;
+            width: 1300px;
+            background-color: whitesmoke;
+        }
+        .logo{
+            font-size: 70px;
+            display: inline-block;
+            color: orangered;
+        }
+        .form{
+            display: inline-block;
+            margin: 0px 0px 0px 250px;
+        }
+        .u1{
+            height: 50px;
+            background-color: orangered;
+            font-size: 30px;
+            width: 1300px;
+        }
+        ul li{
+            list-style: none;
+            display: inline-block;
+            width: 200px;
+            height: 50px;
+            text-align: center;
+            cursor:pointer;
+            line-height: 50px;
+            color: white;
+        }
+        ul li:hover {
+            box-shadow: 0px 0px 10px grey;
+            color: yellow;
+        }
+        .div1:hover .buy{
+            top:340px;
+
+        }
+        .kuang{
+            height:40px;
+            width:300px;
+            font-size:20px;
+        }
+        .kuang1{
+            height:40px;
+            width:50px;
+            font-size:20px;
+        }
+        .sale{
+            height: 40px;
+            width: 100%;
+            font-size: 20px;
+            text-align: center;
+            line-height: 40px;
+            background-color: red;
+            color: white;
+            position: absolute;
+            transform: rotate(40deg);
+            left: 80px;
+            top: 30px;
+        }
+        .xuanfu{
+            position:fixed;
+            bottom: 10px;
+            right: 10px;
+            height: 70px;
+            width: 70px;
+            background-color: whitesmoke;
+            text-align: center;
+            line-height: 70px;
+            font-size: 50px;
+        }
+        .buy{
+            height: 30px;
+            width: 100%;
+            background-color: orangered;
+            color: white;
+            position: absolute;
+            top:420px;
+            transition: all .2s ease-in-out;
+            text-align: center;
+            font-size: 28px;
+        }
+        #zhiding{
+            color: red;
+            font-size: 20px;
+            box-shadow: none;
+        }
+
+    </style>
+</head>
+<body>
+<div class="tou">
+    <div class="logo"> Taobao.com</div><a id="zhiding" name="a1">一个万能的网站</a>
+    <div class="form"><form action="">
+         <input class="kuang" type="text" placeholder="请输入想要的宝贝" >
+        <input class="kuang1" type="button" value="搜索"></form></div>
+</div>
+<div class="u1">
+    <ul>
+        <li>男装</li>
+        <li>女装</li>
+        <li>内衣</li>
+        <li>鞋靴</li>
+        <li>童装玩具</li>
+        <li>数码</li>
+    </ul>
+</div>
+<div class="zongti div1">
+    <div class="sale">大甩卖</div>
+    <div class="img " style="background-image:url(../图片/img-4.png)"></div>
+    <div class="title "><a href="https://item.taobao.com/item.htm?id=558691805807&spm=a21bo.7925826.192013.4.178e4c0ddJNMMm&track_params=%7B%22jpFeedId%22%3A%222500000200374361296%22%7D&scm=1007.12846.65991.999999999999999&pvid=3c886dea-9935-4348-b674-0a5d8b4a9ae9" target="_blank"> Vetements 亮面羽绒服</a></div>
+    <div class="inf ">“经典羽绒服廓形搭配亮面黑色调及大翻领设计，彰显新锐摩登范。”</div>
+    <div class="price ">￥35700</div>
+    <div class="star ">581人说好</div>
+    <div class="buy">Buy</div>
+</div>
+<div class="zongti div1">
+    <div class="sale">惊爆价</div>
+    <div class="img " style="background-image:url(../图片/img-5.png)"></div>
+    <div class="title "><a href="假网页.html"> M-GRAPH 羽绒服</a></div>
+    <div class="inf ">“连帽设计气质休闲，轻薄衣身给你轻盈感受。”</div>
+    <div class="price ">￥669</div>
+    <div class="star ">332人说好</div>
+    <div class="buy">Buy</div>
+</div>
+<div class="zongti div1">
+    <div class="sale">5.5折</div>
+    <div class="img " style="background-image:url(../图片/img-6.png)"></div>
+    <div class="title "><a href="假网页.html">花花公子短款羽绒服</a></div>
+    <div class="inf ">“经典连帽款式，简约大气，尽显高端，展现绅士风度。”</div>
+    <div class="price ">￥599</div>
+    <div class="star ">691人说好</div>
+    <div class="buy">Buy</div>
+</div>
+<div class="zongti div1">
+    <div class="sale">4折大甩卖</div>
+    <div class="img " style="background-image:url(../图片/img-7.png)"></div>
+    <div class="title "><a href="http://www.baidu.com/">A&F羽绒夹克</a></div>
+    <div class="inf ">“简约轻松的短版款式，温暖舒适的羽绒，完美体现青春气质。”</div>
+    <div class="price ">￥372</div>
+    <div class="star ">965人说好</div>
+    <div class="buy">Buy</div>
+</div>
+<div class="zongti div1">
+    <div class="sale">双11特惠</div>
+    <div class="img " style="background-image:url(../图片/img-4.png)"></div>
+    <div class="title "><a href="https://item.taobao.com/item.htm?id=558691805807&spm=a21bo.7925826.192013.4.178e4c0ddJNMMm&track_params=%7B%22jpFeedId%22%3A%222500000200374361296%22%7D&scm=1007.12846.65991.999999999999999&pvid=3c886dea-9935-4348-b674-0a5d8b4a9ae9" target="_blank"> Vetements 亮面羽绒服</a></div>
+    <div class="inf ">“经典羽绒服廓形搭配亮面黑色调及大翻领设计，彰显新锐摩登范。”</div>
+    <div class="price ">￥35700</div>
+    <div class="star ">581人说好</div>
+    <div class="buy">Buy</div>
+</div>
+<div class="zongti div1">
+    <div class="sale">大甩卖</div>
+    <div class="img " style="background-image:url(../图片/img-5.png)"></div>
+    <div class="title "><a href="假网页.html"> M-GRAPH 羽绒服</a></div>
+    <div class="inf ">“连帽设计气质休闲，轻薄衣身给你轻盈感受。”</div>
+    <div class="price ">￥669</div>
+    <div class="star ">332人说好</div>
+    <div class="buy">Buy</div>
+</div>
+<div class="zongti div1">
+    <div class="sale">大甩卖</div>
+    <div class="img " style="background-image:url(../图片/img-6.png)"></div>
+    <div class="title "><a href="假网页.html">花花公子短款羽绒服</a></div>
+    <div class="inf ">“经典连帽款式，简约大气，尽显高端，展现绅士风度。”</div>
+    <div class="price ">￥599</div>
+    <div class="star ">691人说好</div>
+    <div class="buy">Buy</div>
+</div>
+<div class="zongti div1">
+    <div class="sale">大甩卖</div>
+    <div class="img " style="background-image:url(../图片/img-7.png)"></div>
+    <div class="title "><a href="http://www.baidu.com/">A&F羽绒夹克</a></div>
+    <div class="inf ">“简约轻松的短版款式，温暖舒适的羽绒，完美体现青春气质。”</div>
+    <div class="price ">￥372</div>
+    <div class="star ">965人说好</div>
+    <div class="buy">Buy</div>
+
+</div>
+<div class="xuanfu"><a href="#a1">⬆</a> </div>
+</body>
+</html>

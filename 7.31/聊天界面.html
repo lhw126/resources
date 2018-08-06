@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+            font-family: 宋体;
+            font-size: 20px;
+        }
+        ::-webkit-scrollbar{
+            display: none;
+        }
+        .border{
+            border: red 1px solid;
+        }
+        .cont{
+            height: 500px;
+            width: 350px;
+            border: black 1px solid;
+            overflow: scroll;
+            background-image: url(../resources/img/auto/tesla-roadster-2018-02.jpg);
+            background-size: cover;
+            background-position: center;
+            opacity: 0.8;
+
+
+        }
+        .world{
+            width: 200px;
+            height: 50px;
+            margin: 20px 20px 0px 10px;
+            vertical-align: top;
+            text-align:left;
+            background-color:white;
+            float:left;
+            line-height: 50px;
+            border-radius:10px;
+            position: relative;
+            padding-left: 15px;
+        }
+        .sub{
+            height: 1000px;
+            width: 300px;
+        }
+        .worldborder{
+            height:80px;
+            width: 350px;
+        }
+        .me{
+            height: 50px;
+            width: 50px;
+            background-image: url(../resources/img/dev/hadoop.jpg);
+            background-position: center;
+            background-size: cover;
+            border-radius: 50%;
+            vertical-align: top;
+            margin: 20px 0px 0px 0px;
+            float:left;
+        }
+        .you{
+            height: 50px;
+            width: 50px;
+
+            background-image: url(../resources/img/dev/elasticsearch.jpg);
+            background-size: cover;
+            background-position: center;
+            border-radius:70%;
+            margin: 20px 0px 0px 0px;
+            float:right;
+        }
+        .world2{
+            width: 200px;
+            height: 50px;
+            border: green 1px solid;
+            margin: 20px 10px 0px 20px;
+            vertical-align: top;
+            text-align:right;
+            background-color: #30c750;
+            float:right;
+            border-radius: 10px;
+            line-height: 50px;
+            position: relative;
+            padding-right: 15px;
+        }
+        #p1{
+            height: 150px;
+        }
+        .leftjiao{
+            height: 15px;
+            width: 15px;
+            transform: rotate(45deg);
+            background-color: white;
+            position: absolute;
+            top: 15px;
+            left: -5px;
+        }
+        .rightjiao{
+            height: 15px;
+            width: 15px;
+            transform: rotate(45deg);
+            background-color:#30c750;
+            position: absolute;
+            top: 15px;
+            right: -5px;
+        }
+        .title{
+            height: 50px;
+            width: 352px;
+            background-color: black;
+            position:relative;
+            top: 0px;
+            color: white;
+            text-align:left;
+            line-height: 50px;
+            z-index: 1;
+
+        }
+    </style>
+</head>
+<body>
+<div class="title"><img src="../7.27/图片/返回%20(1).svg" height="20px"> Good boy</div>
+<div class="cont">
+    <div class="sub">
+        <div class="worldborder ">
+            <div class="me"></div>
+            <div class="world" style="width: 170px"> 你好，吃饭了吗？
+            <div class="leftjiao"></div>
+            </div>
+            <br clear="both">
+        </div>
+
+        <div class="worldborder ">
+        <div class="you"></div>
+        <div class="world2" style="width: 50px">...
+        <div class="rightjiao"></div>
+        </div>
+        </div>
+
+        <div id="p1" class="worldborder ">
+            <div class="me"></div>
+            <div class="world" style="width: 200px;height:150px;padding-left: 0px"><img src="../resources/img/auto/benz-amg-s63-02.jpg" height="100px" style="float:left">我今天看到一辆车，好看吗?</div>
+            <br clear="both">
+        </div>
+
+        <div class="worldborder ">
+            <div class="you"></div>
+            <div class="world2" style="width: 120px">好看！！！
+                <div class="rightjiao"></div>
+            </div>
+        </div>
+
+        <div class="worldborder ">
+            <div class="me"></div>
+            <div class="world" style="width: 160px">( ^_^ )/~~拜拜
+            <div class="leftjiao"></div>
+            </div>
+            <br clear="both">
+        </div>
+
+        <div class="worldborder ">
+            <div class="you"></div>
+            <div class="world2" style="width: 130px">好吧，再见！
+                <div class="rightjiao"></div>
+            </div>
+        </div>
+
+    <br clear="both">
+    </div>
+</div>
+</body>
+</html>
